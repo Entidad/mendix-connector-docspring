@@ -53,10 +53,10 @@ N/A
 
 # Frequently Asked Questions [optional]
 
-Q: How do I create a new DocSpring template?
+*Q:* How do I create a new DocSpring template?
 
-A: Create a DocSpring template either by uploading an existing PDF form using this DocSpring Connector or by manually creating one directly in DocSpring to your own specifications
+*A:* Create a DocSpring template either by uploading an existing PDF form using this DocSpring Connector or by manually creating one directly in DocSpring to your own specifications
 
-Q: How do I populate data on a DocSpring template using my Mendix application?
+*Q:* How do I populate data on a DocSpring template using my Mendix application?
 
-A: Create a nonpersistent entity (NPE) with attribute names and types that match the DocSpring template’s attribute names and types. Populate the NPE attributes with your captured data, and then call the DocSpring Connector’s provided microflows to carry out your template actions, including API_TemplateUpdate and API_TemplateSubmit
+*A:* Create a nonpersistent entity (NPE) with attribute names and types that match the DocSpring template’s attribute names and types. Populate the NPE attributes with your captured data, and then call the DocSpring Connector’s provided microflows to carry out your template actions, including API_TemplateUpdate and API_TemplateSubmit

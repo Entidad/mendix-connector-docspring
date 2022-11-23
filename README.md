@@ -10,7 +10,9 @@ The DocsSpring connector allows Mendix users to complete activities in DocSpring
 * Submit completed documents to other systems of record
 * Share completed documents with other systems (for example, eSignature platforms)
 
-**Note:** Remember that you will be charged DocSpring rates per API call. They have a pay-as-you-go model.
+Link to DocSpring: https://docspring.com/
+
+**Note:** You will be charged DocSpring rates per API call, as they have a pay-as-you-go model.
 
 # Typical usage scenario
 
